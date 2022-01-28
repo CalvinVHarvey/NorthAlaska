@@ -12,7 +12,7 @@ I enjoy going Hiking, Fishing, Camping, Eating the fish I catch, Snowmobiling, a
 
 I enjoy developing minecraft plugins, but am working on expanding my skill-set to be further. 
 
-As I will be working on getting Unity down next year. And am interested in AI.
+Interest in AI, and other sorts of technology. Also enjoy doing 3d printing as another hobby of mine.
 
 
 ## ✒️ Languages I Know
