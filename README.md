@@ -1,4 +1,4 @@
-- 👋 Hello, I am @Calvin
+- 👋 Hello, I am @NorthAlaska or Calvin 
 - 🖥I’m interested in: Hiking, fishing, snowmobiling, and Programming
 - 🎓 I’m currently learning: C++
 - 🛠 I’m looking to collaborate on: Nothing as of right now but that can change you can always reach out to me. 
