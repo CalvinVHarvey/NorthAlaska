@@ -17,7 +17,7 @@ Interest in AI, and other sorts of technology. Also enjoy doing 3d printing as a
 My minecraft user name is NorthAlaska
 
 
-## ✒️ Languages I Know
+## ✒️ Programming Languages I Know
 
 - Java
 - Javascript
