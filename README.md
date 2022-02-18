@@ -1,6 +1,6 @@
 - 👋 Hello, I am @NorthAlaska
 - 🖥I’m interested in: Hiking, fishing, snowmobiling, and Programming
-- 🎓 I’m currently learning: Python
+- 🎓 I’m currently learning: 
 - 🛠 I’m looking to collaborate on: Anything feel free to contact me below!
 - 📫 How to reach me: northalaskan90@gmail.com
 
